@@ -1,4 +1,8 @@
-## 4.1 ~ 4.2.1
+## Deeplearning
+
+### 4.1　データから学習する
+### 4.1.1　データ駆動
+### 4.1.2　訓練データとテストデータ
 
 You can use the [editor on GitHub](https://github.com/johntips/python_deeplearning/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
