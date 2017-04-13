@@ -1,4 +1,4 @@
-## deeplearningをはじめる
+## 4.1 ~ 4.2.1
 
 You can use the [editor on GitHub](https://github.com/johntips/python_deeplearning/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
