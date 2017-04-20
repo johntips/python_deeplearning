@@ -30,7 +30,7 @@
 ### 4.2.1　2乗和誤差
 
 - 2乗和誤差を用いる関数に、「二乗和誤差」があるよ
-![式](http://....)
+![式](https://raw.githubusercontent.com/johntips/python_deeplearning/master/0421.png)
 
 - 手書き数字認識の例、数値化
 
